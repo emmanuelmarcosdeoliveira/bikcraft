@@ -6,6 +6,8 @@
 @import "utilidades/componente.css";
 /* Home */
 @import "home/introducao.css";
+@import "home/tecnologias.css";
 /* Biciciletas */
 @import "../css/biciciletas/bicicletas-lista.css";
+
 
