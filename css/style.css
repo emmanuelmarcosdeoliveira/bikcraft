@@ -12,6 +12,7 @@
 @import "home/depoimento.css";
 /* Biciciletas */
 @import "../css/biciciletas/bicicletas-lista.css";
+@import "../css/biciciletas/bicicletas.css";
 /* Seguros */
 @import "./seguros/seguros.css";
 /* Termos e Condições */
