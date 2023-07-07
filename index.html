@@ -7,6 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Biciletas elétricas de alta precisão e qualidade, feitas sobe medida para o cliente. Explore o Mundo na sua velocidade com a Bikcraft">
   <title>Bikcraft - Biciletas Elétricas</title>
+  <link rel="preload" href="./css/style.css" as="style">
   <link rel="stylesheet" href="./css/style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -17,7 +18,7 @@
   <header class="header-bg">
     <div class="header container">
       <a href="./">
-        <img src="./img/bikcraft.svg " alt="Bikcraft">
+        <img src="./img/bikcraft.svg " width="136" height="32" alt="Bikcraft">
       </a>
 
       <nav aria-label="primaria">
@@ -36,9 +37,11 @@
         <p class="font-2-l cor-5">Bicicletas elétricas de alta precisão e qualidade, feitas sob medida para o cliente. Explore o mundo na sua velocidade com a Bikcraft.</p>
         <a class="botao" href="./bicicletas.html">Escolha a sua</a>
       </div>
-      <div>
-        <img src="img/fotos/introducao.jpg" alt="Bicileta elétrica preta">
-      </div>
+      <picture>
+        <source media="(max-width: 800px)" srcset="./img/bicicletas/nimbus.jpg" type="image/jpeg">
+        <img src="img/fotos/introducao.jpg" width="1280" height="1600" alt="Bicileta elétrica preta">
+      </picture>
+
     </div>
   </main>
   <article class="bicicletas-lista">
@@ -66,7 +69,7 @@
         </a>
       </li>
     </ul>
-    
+
   </article>
   <article class="tecnologia-bg">
     <div class="tecnologia container">
@@ -89,21 +92,21 @@
         </div>
       </div>
       <div class="tecnologia-imagem">
-        <img src="img/fotos/tecnologia.jpg" alt="">
+        <img src="img/fotos/tecnologia.jpg" width="1200" height="1920" alt="">
       </div>
     </div>
   </article>
   <section class="parceiros" aria-label="Nossos Parceiros">
     <h2 class=" container font-1-xxl cor-12">nossos parceiros<span class="cor-p1">.</span></h2>
     <ul>
-      <li><img src="img/parceiros/caravan.svg" alt="caravan"></li>
-      <li><img src="img/parceiros/ranek.svg" alt="ranek"></li>
-      <li><img src="img/parceiros/handel.svg" alt="handel"></li>
-      <li><img src="img/parceiros/dogs.svg" alt="dogs"></li>
-      <li><img src="img/parceiros/lescone.svg" alt="lescone"></li>
-      <li><img src="img/parceiros/flexblog.svg" alt="flexblog"></li>
-      <li><img src="img/parceiros/wildbeast.svg" alt="wildbeast"></li>
-      <li><img src="img/parceiros/surfbot.svg" alt="wildbeast"></li>
+      <li><img src="img/parceiros/caravan.svg" width="140" height="38" alt="caravan"></li>
+      <li><img src="img/parceiros/ranek.svg" width="149" height="36" alt="ranek"></li>
+      <li><img src="img/parceiros/handel.svg" width="139" height="50" alt="handel"></li>
+      <li><img src="img/parceiros/dogs.svg" width="152" height="39" alt="dogs"></li>
+      <li><img src="img/parceiros/lescone.svg" width="208" height="41" alt="lescone"></li>
+      <li><img src="img/parceiros/flexblog.svg" width="165" height="38" alt="flexblog"></li>
+      <li><img src="img/parceiros/wildbeast.svg" width="169" height="34" alt="wildbeast"></li>
+      <li><img src="img/parceiros/surfbot.svg" width="200" height="49" alt="wildbeast"></li>
     </ul>
   </section>
   <section class="depoimento" aria-label="Depoimento">

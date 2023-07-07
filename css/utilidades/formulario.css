@@ -6,7 +6,7 @@
 
 .form label {
   display: block;
-  font: 600 1rem/1.5 "Poppins", sans-serif;
+  font: 400 1rem/1.5 "Poppins", sans-serif;
   margin-bottom: 4px;
 }
 .form input[type="text"],
@@ -30,7 +30,7 @@ box-sizing: border-box;
   box-shadow: 0 0 0 2px #fea;
 }
 
-form .col-2 {
+.form .col-2 {
   grid-column: span 2;
 }
 
