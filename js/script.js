@@ -61,7 +61,3 @@ galeria.forEach(eventosGaleria);
 if (window.SimpleAnime) {
   new SimpleAnime();
 }
-// Plugin de copiar texto
-if (window.ClipboardJS) {
-  new ClipboardJS(".introducao-conteudo p");
-}
