@@ -21,7 +21,7 @@
 <div>
 
 <p align='left'>
-   Esse projeto faz parte do Curso de HTML e CSS para Inicantes da [Origamid](https://origamid.com/). Ele é o 
+   Esse projeto faz parte do Curso de HTML e CSS para Inicantes da Origamid <https://origamid.com/>. Ele é o 
    projeto final do curso; nele aprendemos vários coneceitos de <strong>HTML & CSS</strong> e um  <strong>básico de JavaScript</strong>.Esse projeto faz parte também do Curso de <ins>UI Design para iniciantes</ins> . Onde primeiro construimos o layout do projeto no Figma; onde foi abordado varios conceitos de UI Design e depois construimos o projeto na Web.
 </p>
 
@@ -50,7 +50,7 @@
  <div align="center">
  <h2>📸 Imagens do Projeto verão web.</h2>
 
-> :bulb: **Tip:** Algumas imagens da versão Desktop.
+> :bulb: **Dica:** Algumas imagens da versão Desktop.
 
 <img src="./img/bikcraft-readme/home1.png" width= 450px> 
 <img src="./img/bikcraft-readme/home2.png" width= 450px>
@@ -60,7 +60,7 @@
 <div>
  <h2>📱 Imagens do Projeto verão Mobile.</h2>
 
- > :bulb: **Tip:** Algumas imagens da versão Mobile.
+ > :bulb: **Dica:** Algumas imagens da versão Mobile.
 
 <img src="./img/bikcraft-readme/mobile.png" width= "160x" height="320px"> 
 <img src="./img/bikcraft-readme/mobile1.png" width= "160px" height="320px"> 
@@ -71,9 +71,9 @@
 <h2>🪛Tecnologias Utilizadas </h2>
 <div>
 <div align="left">
-- [x] HTML<br>
-- [x] CSS<br>
-- [x] JAVASCRIPT
+✅HTML<br>
+✅CSS<br>
+✅JAVASCRIPT
 <div>
 <div align='center'>
  <h2>🛣️ Como Executar esse projeto ?</h2>
