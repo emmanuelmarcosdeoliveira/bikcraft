@@ -40,7 +40,7 @@
   <h2>⚙️ Funcionalidades</h2>
 <div>
 
-<p align ="left"> Esse projeto simula uma loja de Bicicletas Elétricas onde podemos ver os 3 modelos de Bicicletas que a <strong>Bikcraft</strong> produz.<br>
+<p align ="left"> Esse projeto simula uma loja de Bicicletas Elétricas onde podemos ver os 3 modelos de Bicicletas que a <strong>Bikcraft</strong> produz.<br><br>
 🟨 Nimbus Stark<br>
 🟥 Magic Might<br>
 🟧 Nebula Cosmic<br>
