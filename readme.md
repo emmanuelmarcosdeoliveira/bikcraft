@@ -7,26 +7,27 @@
 [Imagens](#-imagens-do-projeto-verão-web) |
 [Tecnologias](#tecnologias-utilizadas-) |
 [Como executar esse projeto ?](#%EF%B8%8F-como-executar-esse-projeto-) |
-[Referencias](#-referências-) |
+[Referências](#-referências-) |
 [Autor](#-autor-) |
 <div>
+
 <div align="center">
 <h1 text-align="center"> 🌟Bikcraft🌟</h1> 
 <img src="./img/bikcraft-readme/home.png" width= 990px> 
 </div>
 
 <div align='center'>
-<h2> ✅ Descrição do projeto: </h2> 
+<h2> ✅ Descrição do Projeto: </h2> 
 <div>
 
-> Esse projeto faz parte do Curso de HTML  e CSS para inicantes da [Origamid](https://origamid.com/). Ele é o 
-   projeto final do curso nele aprendemos vários coneceitos de _HTML_, _CSS_ e um  **básico de JavaScript**. Esse > projeto faz parte também do Curso de **UI Design para iniciantes** . Onde primeiro construimos o layout do >    projeto no figma aprendendo também vairos conceitos de UI  para depois contruimos o projeto na Web.
-
+<p align='left'>
+   Esse projeto faz parte do Curso de HTML e CSS para Inicantes da [Origamid](https://origamid.com/). Ele é o 
+   projeto final do curso; nele aprendemos vários coneceitos de <strong>HTML & CSS</strong> e um  <strong>básico de JavaScript</strong>.Esse projeto faz parte também do Curso de <ins>UI Design para iniciantes</ins> . Onde primeiro construimos o layout do projeto no Figma; onde foi abordado varios conceitos de UI Design e depois construimos o projeto na Web.
+</p>
 
 <div align='center'>
 <h2> 🎨Layout no Figma </h2>
 <div>
-
 
 ## Abaixo print do projeto no Figma e acesso o projeto atráves do <font color='blue'><ins>*link*</ins></font>
 
@@ -39,33 +40,41 @@
   <h2>⚙️ Funcionalidades</h2>
 <div>
 
-<p> Esse projeto simula uma loja de Bicicletas Elétricas onde podemos ver os 3 modelos de Bicicletas que a <strong>Bikcraft</strong> produz.<br>
-🟨 Nimbus Stark  <br>
-🟥 Magic Might <br>
-🟧 Nebula Cosmic <br>
-Aqui podemos ver os Modelos suas caracteristicas, valores e solicitar um orçamento atráves de um formulário, pois as biciletas são fabricadas sob Medida.
+<p align ="left"> Esse projeto simula uma loja de Bicicletas Elétricas onde podemos ver os 3 modelos de Bicicletas que a <strong>Bikcraft</strong> produz.<br>
+🟨 Nimbus Stark<br>
+🟥 Magic Might<br>
+🟧 Nebula Cosmic<br>
 
- <h2>📸 Imagens do Projeto verão web.</h2>
+>Aqui podemos ver os Modelos suas caracteristicas, valores e solicitar um orçamento atráves de um formulário, pois as biciletas são fabricadas sob Medida.
+
  <div align="center">
+ <h2>📸 Imagens do Projeto verão web.</h2>
+
+> :bulb: **Tip:** Algumas imagens da versão Desktop.
+
 <img src="./img/bikcraft-readme/home1.png" width= 450px> 
 <img src="./img/bikcraft-readme/home2.png" width= 450px>
 <img src="./img/bikcraft-readme/home3.png" width= 450px> 
 <img src="./img/bikcraft-readme/home4.png" width= 450px>  
+</div>
 <div>
  <h2>📱 Imagens do Projeto verão Mobile.</h2>
-<img src="./img/bikcraft-readme/mobile.png" width= "414px" height="896px"> 
-<img src="./img/bikcraft-readme/mobile1.png" width= "414px" height="896px"> 
-<img src="./img/bikcraft-readme/mobile2.png" width= "414px" height="896px"> 
-<img src="./img/bikcraft-readme/mobile3.png" width= "414px" height="896px"> 
 
+ > :bulb: **Tip:** Algumas imagens da versão Mobile.
+
+<img src="./img/bikcraft-readme/mobile.png" width= "160x" height="320px"> 
+<img src="./img/bikcraft-readme/mobile1.png" width= "160px" height="320px"> 
+<img src="./img/bikcraft-readme/mobile2.png" width= "160px" height="320px"> 
+<img src="./img/bikcraft-readme/mobile3.png" width= "160px" height="320px"> 
+</div>
 <div align='center'>
 <h2>🪛Tecnologias Utilizadas </h2>
 <div>
-
-- [x] HTML
-- [x] CSS
+<div align="left">
+- [x] HTML<br>
+- [x] CSS<br>
 - [x] JAVASCRIPT
-
+<div>
 <div align='center'>
  <h2>🛣️ Como Executar esse projeto ?</h2>
 <div>
