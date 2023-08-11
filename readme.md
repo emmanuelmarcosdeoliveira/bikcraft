@@ -12,7 +12,9 @@
 <img src="./img/bikcraft-readme/home.png" width= 990px> 
 
 
-## <center> ✅ Descrição do projeto: </center>
+<center>
+<h1> ✅ Descrição do projeto: </h1> 
+</center>
 > Esse projeto faz parte do Curso de HTML  e CSS para inicantes da [Origamid](https://origamid.com/). Ele é o 
    projeto final do curso nele aprendemos vários coneceitos de _HTML_, _CSS_ e um  **básico de JavaScript**. Esse > projeto faz parte também do Curso de **UI Design para iniciantes** . Onde primeiro construimos o layout do >    projeto no figma aprendendo também vairos conceitos de UI  para depois contruimos o projeto na Web.
 
